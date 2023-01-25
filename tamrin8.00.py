@@ -1,5 +1,5 @@
-R = 6#int(input("Enter the number of rows: "))
-C = 10#int(input("Enter the number of columns: "))
+R = int(input("Enter the number of rows: "))
+C = int(input("Enter the number of columns: "))
 matrix = []
 
 for i in range(R):
